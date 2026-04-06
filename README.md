@@ -71,19 +71,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitdwivedi01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=sumitdwivedi01&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdwivedi01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitdwivedi01&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitdwivedi01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitdwivedi01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitdwivedi01&theme=tokyonight" />
+</p>
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumitdwivedi01&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-22c55e?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-DSA-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code%20Quality-Clean%20UI-purple?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
