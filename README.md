@@ -13,8 +13,8 @@
 ## 👨‍💻 About Me
 
 - 🚀 Building **real-world MERN stack projects**
-- 🌱 Currently learning **Advanced React, Node.js & Backend**
-- 💬 Ask me about **JavaScript, React, UI/UX & GitHub**
+- 🌱 Currently Implementing **Advanced React, Node.js & Backend**
+- 💬 Ask me about **JavaScript, React, UI/UX & GitHub , Node.js , Express.js , Docker**
 - 📫 Email: **sumitdwivedi056@gmail.com**
 - 🎯 Goal: Become a **Skilled Full Stack Developer**
 
