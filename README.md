@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sumit Dwivedi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Building+Real+World+Projects;Final+Year+CSE+Student;Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Real+World+Projects;Final+Year+CSE+Student;Always+Learning+%26+Growing" />
 </p>
 
 <p align="center">
